@@ -6,6 +6,8 @@ Jupyter notebooks showcasing PORTULAN CLARIN webservices:
   (open in [binder](https://mybinder.org/v2/gh/portulanclarin/jupyter-notebooks/HEAD?filepath=01-lxsuite.ipynb)|[colab](https://colab.research.google.com/github/portulanclarin/jupyter-notebooks/blob/main/01-lxsuite.ipynb))
 * [02-lxdepparser.ipynb](02-lxdepparser.ipynb) example showing how to use LX-DepParser to parse sentences and how to display dependency graphs within a notebook
   (open in [binder](https://mybinder.org/v2/gh/portulanclarin/jupyter-notebooks/HEAD?filepath=02-lxdepparser.ipynb)|[colab](https://colab.research.google.com/github/portulanclarin/jupyter-notebooks/blob/main/02-lxdepparser.ipynb))
+* [04-lxtagger.ipynb](04-lxtagger.ipynb) example showing how to use LX-Tagger to annotate a corpus
+  (open in [binder](https://mybinder.org/v2/gh/portulanclarin/jupyter-notebooks/HEAD?filepath=04-lxtagger.ipynb)|[colab](https://colab.research.google.com/github/portulanclarin/jupyter-notebooks/blob/main/04-lxtagger.ipynb))
 
 
 Other notebooks:
