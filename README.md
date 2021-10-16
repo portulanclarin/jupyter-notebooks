@@ -8,6 +8,8 @@ Jupyter notebooks showcasing PORTULAN CLARIN webservices:
   (open in [binder](https://mybinder.org/v2/gh/portulanclarin/jupyter-notebooks/HEAD?filepath=02-lxdepparser.ipynb)|[colab](https://colab.research.google.com/github/portulanclarin/jupyter-notebooks/blob/main/02-lxdepparser.ipynb))
 * [04-lxtagger.ipynb](04-lxtagger.ipynb) example showing how to use LX-Tagger to annotate a corpus
   (open in [binder](https://mybinder.org/v2/gh/portulanclarin/jupyter-notebooks/HEAD?filepath=04-lxtagger.ipynb)|[colab](https://colab.research.google.com/github/portulanclarin/jupyter-notebooks/blob/main/04-lxtagger.ipynb))
+* [05-uevora-tagger.ipynb](05-uevora-tagger.ipynb) example showing how to use UEvora Tagger to annotate a corpus
+  (open in [binder](https://mybinder.org/v2/gh/portulanclarin/jupyter-notebooks/HEAD?filepath=05-uevora-tagger.ipynb)|[colab](https://colab.research.google.com/github/portulanclarin/jupyter-notebooks/blob/main/05-uevora-tagger.ipynb))
 
 
 Other notebooks:
