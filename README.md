@@ -22,6 +22,8 @@ Jupyter notebooks showcasing PORTULAN CLARIN webservices:
   (open in [binder](https://mybinder.org/v2/gh/portulanclarin/jupyter-notebooks/HEAD?filepath=10-lxsentencesplitter.ipynb)|[colab](https://colab.research.google.com/github/portulanclarin/jupyter-notebooks/blob/main/10-lxsentencesplitter.ipynb))
 * [11-lxner.ipynb](11-lxner.ipynb) example showing how to use the LX-NER webservice to delimit named entities in a text
   (open in [binder](https://mybinder.org/v2/gh/portulanclarin/jupyter-notebooks/HEAD?filepath=11-lxner.ipynb)|[colab](https://colab.research.google.com/github/portulanclarin/jupyter-notebooks/blob/main/11-lxner.ipynb))
+* [12-lxsyllabifier.ipynb](12-lxsyllabifier.ipynb) example showing how to use the LX-Syllabifier webservice to delimit syllables
+  (open in [binder](https://mybinder.org/v2/gh/portulanclarin/jupyter-notebooks/HEAD?filepath=12-lxsyllabifier.ipynb)|[colab](https://colab.research.google.com/github/portulanclarin/jupyter-notebooks/blob/main/12-lxsyllabifier.ipynb))
 
 Other notebooks:
 
