@@ -1,4 +1,7 @@
 jupyter
 matplotlib
+nltk
+pydependencygrapher
 requests
 scipy
+svgling
